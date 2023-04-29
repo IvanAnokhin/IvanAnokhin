@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет! Меня зовут Иван. 👋
 
 <!--
 **IvanAnokhin/IvanAnokhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
