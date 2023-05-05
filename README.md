@@ -1,4 +1,5 @@
 ### Привет! Меня зовут Иван. 👋
+[Сертификат об окончании курса - Skillbox.pdf](https://github.com/IvanAnokhin/IvanAnokhin/files/11407872/-.Skillbox.pdf)
 
 <!--
 **IvanAnokhin/IvanAnokhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
